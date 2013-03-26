@@ -9,6 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Payton Swick"]
   gem.email         = ["payton@foolord.com"]
   gem.description   = %q{Adds link matchers to RSpec for use with Capybara.}
+  gem.summary       = %q{Adds link matchers to RSpec for use with Capybara.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
